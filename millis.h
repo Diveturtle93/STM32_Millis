@@ -43,10 +43,10 @@
 
 // Version definieren
 //----------------------------------------------------------------------
-#define MILLIS_MAJOR							0
+#define MILLIS_MAJOR							1
 #define MILLIS_MINOR							0
 #define MILLIS_PATCH							0
-#define MILLIS_DEV								1
+#define MILLIS_DEV								0
 //----------------------------------------------------------------------
 
 // Funktionen definieren
